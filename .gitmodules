@@ -1,0 +1,9 @@
+[submodule "PEA_Etap_2"]
+	path = PEA_Etap_2
+	url = https://github.com/danielglazer26/PEA_2
+[submodule "PEA_Etap_1"]
+	path = PEA_Etap_1
+	url = https://github.com/danielglazer26/PEA_1
+[submodule "PEA_Etap_3"]
+	path = PEA_Etap_3
+	url = https://github.com/danielglazer26/PEA_3
