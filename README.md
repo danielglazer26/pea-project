@@ -1,15 +1,18 @@
 # pea-project
+Repozytorium zawiera implementacje algorytmów rozwiązujacych problemy optymalizacyjnych dla problemu komiwojażera (ang. Travelling Salesman Problem, TSP).
 
 # PEA_1
-* Brute Force
-* Dynamic Programming
-* Branch and Bound
+Algorytmy dokładne
+* Przegląd zupełny - Brute Force 
+* Dynamiczne Programowanie - Dynamic Programming
+* Algorytm podziału i ograniczeń - Branch and Bound
 
 # PEA_2
-Implementacja metaheurystycznych algorytmów poszukiwania lokalnego  rozwiązujących problem komiwojażera (TSP).
+Algorytmy metaheurystyczne poszukiwania lokalnego
 * Poszukiwanie z zakazami - Tabu Search
-*  Symulowane wyżarzanie - Simulated annealing
+* Symulowane wyżarzanie - Simulated Annealing
 
 # PEA_3
-* Algorytm genetyczny
-* Algorytm memetyczny
+Algorytmy metaheurystyczne  opierające się na populacji
+* Algorytm genetyczny - Genetic Algorithm
+* Algorytm memetyczny - Memetic Algorithm
